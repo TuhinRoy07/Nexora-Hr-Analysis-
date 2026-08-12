@@ -48,7 +48,7 @@ The dashboard contains interactive KPIs, charts, department analysis, employee a
 
 **📸 Add your dashboard screenshot below:**
 
-![Nexora HR Analytics Dashboard](Dashboard_Img.png)
+![Nexora HR Analytics Dashboard](images/Dashboard_Img.png.png)
 
 > **How to add the screenshot:** Upload your dashboard image to the same GitHub repository and name it `Dashboard_Img.png`. If you use a different filename, replace `Dashboard_Img.png` in the image link above.
 
